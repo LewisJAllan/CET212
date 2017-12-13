@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Election>
+	<Constituency name="Middlesbrough">
+		<Candidate party="Green">
+			<Firstname>Jordan</Firstname>
+			<Lastname>Williams</Lastname>
+			<Votes>145</Votes>
+		</Candidate> 
+		<Candidate party="Conservative">
+			<Firstname>Natasha</Firstname>
+			<Lastname>Shields</Lastname>
+			<Votes>130</Votes>
+		</Candidate>
+		<Candidate party="Labour">
+			<Firstname>Dylan</Firstname>
+			<Lastname>Corn</Lastname>
+			<Votes>150</Votes>
+		</Candidate>	
+	</Constituency>
+</Election>	

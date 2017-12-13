@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Election>
+	<Constituency name="Newcastle South">
+		<Candidate party="Conservative">
+			<Firstname>Joe</Firstname>
+			<Lastname>Carver</Lastname>
+			<Votes>140</Votes>
+		</Candidate> 
+		<Candidate party="UKIP">
+			<Firstname>Jack</Firstname>
+			<Lastname>Colback</Lastname>
+			<Votes>165</Votes>
+		</Candidate>
+		<Candidate party="Liberal">
+			<Firstname>Daniel</Firstname>
+			<Lastname>Danish</Lastname>
+			<Votes>110</Votes>
+		</Candidate>	
+	</Constituency>
+</Election>	

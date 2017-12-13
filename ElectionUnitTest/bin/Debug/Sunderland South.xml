@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Election>
+	<Constituency name="Sunderland South">
+		<Candidate party="Liberal">
+			<Firstname>Glenn</Firstname>
+			<Lastname>Campion</Lastname>
+			<Votes>105</Votes>
+		</Candidate> 
+		<Candidate party="Labour">
+			<Firstname>John</Firstname>
+			<Lastname>Naylor</Lastname>
+			<Votes>200</Votes>
+		</Candidate>
+		<Candidate party="UKIP">
+			<Firstname>Shannon</Firstname>
+			<Lastname>Waugh</Lastname>
+			<Votes>50</Votes>
+		</Candidate>	
+	</Constituency>
+</Election>	

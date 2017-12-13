@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Election>
+	<Constituency name="Newcastle North">
+		<Candidate party="BNP">
+			<Firstname>Joe</Firstname>
+			<Lastname>Kinnear</Lastname>
+			<Votes>155</Votes>
+		</Candidate> 
+		<Candidate party="Green">
+			<Firstname>Rachael</Firstname>
+			<Lastname>Lewis</Lastname>
+			<Votes>115</Votes>
+		</Candidate>
+		<Candidate party="Labour">
+			<Firstname>Brett</Firstname>
+			<Lastname>New</Lastname>
+			<Votes>150</Votes>
+		</Candidate>	
+	</Constituency>
+</Election>
